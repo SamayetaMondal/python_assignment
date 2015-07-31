@@ -1,6 +1,7 @@
 #!/usr/bin/python
 import random
 
+print "samayeta is out of mind. Please suggest a doctor."
 print "second branch:"
 print "random():", random.random()
 
