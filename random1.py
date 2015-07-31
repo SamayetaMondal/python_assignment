@@ -1,7 +1,6 @@
 #!/usr/bin/python
 import random
 
-print "second branch:"
 print "random():", random.random()
 
 print "randrange(2, 5000, 2) : ", random.randrange(2, 5000, 2)
